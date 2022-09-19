@@ -1,0 +1,4 @@
+*.log:
+venv/:
+first/:
+django_venv/:

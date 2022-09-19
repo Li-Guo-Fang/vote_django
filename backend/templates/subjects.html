@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>学科信息</title>
+        <style>
+            #container {
+                width: 80%;
+                margin: 10px auto;
+            }
+            .user {
+                float: right;
+                margin-right: 10px;
+            }
+            .user>a {
+                margin-right: 10px;
+            }
+            #main>dl>dt {
+                font-size: 1.5em;
+                font-weight: bold;
+            }
+            #main>dl>dd {
+                font-size: 1.2em;
+            }
+            a {
+                text-decoration: none;
+                color: darkcyan;
+            }
+        </style>
+    </head>
+    <body>
+        {% include 'header.html' %}
+        <div id="container">
+            <h1>扣丁学堂所有学科</h1>
+            <hr>
+            <div id="main">
+                {% for subject in subjects %}
+                <dl>
+                    <dt>
+                        <a href="/polls/teachers/?sno={{ subject.no }}">{{ subject.name }}</a>
+                        {% if subject.is_hot %}
+                        <img src="/static/images/hot-icon-small.png">
+                        {% endif %}
+                    </dt>
+                    <dd>{{ subject.intro }}</dd>
+                </dl>
+                {% endfor %}
+            </div>
+        </div>
+    </body>
+    </html>

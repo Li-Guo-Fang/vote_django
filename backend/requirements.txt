@@ -1,0 +1,6 @@
+django
+pymysql
+djangorestframework
+xlwt
+pillow
+pyjwt==1.7.1

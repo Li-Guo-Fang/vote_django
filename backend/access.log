@@ -1,0 +1,2106 @@
+2022-09-09 22:14:18 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:14:21 log.log_response: Not Found: /
+2022-09-09 22:14:21 basehttp.log_message: "GET / HTTP/1.1" 404 2403
+2022-09-09 22:14:21 log.log_response: Not Found: /
+2022-09-09 22:14:21 basehttp.log_message: "GET / HTTP/1.1" 404 2403
+2022-09-09 22:14:21 log.log_response: Not Found: /favicon.ico
+2022-09-09 22:14:21 basehttp.log_message: "GET /favicon.ico HTTP/1.1" 404 2454
+2022-09-09 22:14:21 log.log_response: Not Found: /favicon.ico
+2022-09-09 22:14:21 basehttp.log_message: "GET /favicon.ico HTTP/1.1" 404 2454
+2022-09-09 22:14:34 basehttp.log_message: "GET /polls HTTP/1.1" 301 0
+2022-09-09 22:14:34 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 5496
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2022-09-09 22:14:34 basehttp.log_message: "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2022-09-09 22:15:37 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\serializers.py changed, reloading.
+2022-09-09 22:15:37 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:15:38 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 5496
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2022-09-09 22:15:38 basehttp.log_message: "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+2022-09-09 22:15:54 log.log_response: Not Found: /polls/teachers/
+2022-09-09 22:15:54 basehttp.log_message: "GET /polls/teachers/ HTTP/1.1" 404 5319
+2022-09-09 22:16:10 log.log_response: Not Found: /polls/teachers/2
+2022-09-09 22:16:10 basehttp.log_message: "GET /polls/teachers/2 HTTP/1.1" 404 3638
+2022-09-09 22:16:17 log.log_response: Not Found: /polls/teachers/1
+2022-09-09 22:16:17 basehttp.log_message: "GET /polls/teachers/1 HTTP/1.1" 404 3638
+2022-09-09 22:16:58 basehttp.log_message: "GET //polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:17:08 basehttp.log_message: "GET //polls/praise/?tno=2 HTTP/1.1" 200 51
+2022-09-09 22:17:13 basehttp.log_message: "GET //polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:19:32 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-09 22:19:32 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:19:33 basehttp.log_message: "GET //polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:19:34 basehttp.log_message: "GET //polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:19:34 basehttp.log_message: "GET //polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:19:35 basehttp.log_message: "GET //polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:40 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 2351
+2022-09-09 22:19:40 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:19:44 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:19:44 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:19:49 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:51 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:52 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:53 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:53 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:54 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:54 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:55 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:19:56 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 65
+2022-09-09 22:21:08 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-09 22:21:08 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:21:14 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:21:17 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:21:17 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:17 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:21:17 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:18 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:21:18 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:18 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:21:18 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:18 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:19 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:19 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:20 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:20 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:20 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:21 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:21 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:21 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:21 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:22 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:23 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:23 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:24 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:24 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:24 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:25 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:26 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:27 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:32 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-09 22:21:32 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:21:35 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:36 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:37 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:38 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:38 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:48 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-09 22:21:49 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:21:52 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:54 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:21:54 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:55 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:55 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:56 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:57 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 63
+2022-09-09 22:21:59 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:21:59 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:22:00 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:22:01 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:22:03 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-09 22:22:22 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-09 22:22:22 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:34:20 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:34:20 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:34:24 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:34:24 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:34:30 basehttp.log_message: "GET /polls HTTP/1.1" 301 0
+2022-09-09 22:34:30 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 22:34:30 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:34:50 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2445
+2022-09-09 22:34:57 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2445
+2022-09-09 22:34:58 log.log_response: Not Found: /polls/register/
+2022-09-09 22:34:58 basehttp.log_message: "GET /polls/register/ HTTP/1.1" 404 3635
+2022-09-09 22:35:03 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:35:03 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:35:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 22:35:11 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:35:22 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 22:35:22 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:35:28 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2445
+2022-09-09 22:35:47 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2469
+2022-09-09 22:36:17 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-09 22:36:17 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 22:36:17 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:36:26 log.log_response: Not Found: /polls/register/
+2022-09-09 22:36:26 basehttp.log_message: "GET /polls/register/ HTTP/1.1" 404 3635
+2022-09-09 22:36:53 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:36:53 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:37:07 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 22:37:07 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:37:08 log.log_response: Not Found: /favicon.ico
+2022-09-09 22:37:08 basehttp.log_message: "GET /favicon.ico HTTP/1.1" 404 2454
+2022-09-09 22:37:17 log.log_response: Forbidden (CSRF cookie not set.): /polls/teachers/
+2022-09-09 22:37:17 basehttp.log_message: "DELETE /polls/teachers/?sno=1 HTTP/1.1" 403 2801
+2022-09-09 22:39:25 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-09 22:39:25 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:42:13 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-09 22:42:14 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:42:42 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:43:22 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:45:50 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-09 22:45:51 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:46:00 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:47:22 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:48:20 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:48:52 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:49:02 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 60
+2022-09-09 22:49:06 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 60
+2022-09-09 22:49:14 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:15 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:15 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:16 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:16 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:16 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:16 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:16 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:17 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:17 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:17 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:17 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:18 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:38 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:40 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:41 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:41 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:41 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 60
+2022-09-09 22:49:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 60
+2022-09-09 22:51:09 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:51:11 basehttp.log_message: "GET / HTTP/1.1" 302 0
+2022-09-09 22:51:11 basehttp.log_message: "GET /user/login/ HTTP/1.1" 200 60
+2022-09-09 22:51:11 basehttp.log_message: "GET / HTTP/1.1" 302 0
+2022-09-09 22:51:11 basehttp.log_message: "GET /user/login/ HTTP/1.1" 200 60
+2022-09-09 22:51:25 basehttp.log_message: "GET /user/login/ HTTP/1.1" 200 60
+2022-09-09 22:52:12 basehttp.log_message: "GET //polls/ HTTP/1.1" 200 60
+2022-09-09 22:52:34 basehttp.log_message: "GET /login/ HTTP/1.1" 200 60
+2022-09-09 22:52:36 basehttp.log_message: "GET /login/ HTTP/1.1" 200 60
+2022-09-09 22:52:36 basehttp.log_message: "GET /login/ HTTP/1.1" 200 60
+2022-09-09 22:54:03 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:54:09 log.log_response: Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\Django_learn\hellodjango\polls\middleware.py", line 23, in process_request
+    return JsonResponse({'status': False, 'info': '用户未登录!'},encoder='utf-8')
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 234, in dumps
+    return cls(
+TypeError: 'str' object is not callable
+2022-09-09 22:54:09 basehttp.log_message: "GET /login/ HTTP/1.1" 500 79286
+2022-09-09 22:54:10 log.log_response: Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\Django_learn\hellodjango\polls\middleware.py", line 23, in process_request
+    return JsonResponse({'status': False, 'info': '用户未登录!'},encoder='utf-8')
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 234, in dumps
+    return cls(
+TypeError: 'str' object is not callable
+2022-09-09 22:54:10 basehttp.log_message: "GET /login/ HTTP/1.1" 500 79286
+2022-09-09 22:54:10 log.log_response: Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\Django_learn\hellodjango\polls\middleware.py", line 23, in process_request
+    return JsonResponse({'status': False, 'info': '用户未登录!'},encoder='utf-8')
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 234, in dumps
+    return cls(
+TypeError: 'str' object is not callable
+2022-09-09 22:54:10 basehttp.log_message: "GET /login/ HTTP/1.1" 500 79286
+2022-09-09 22:57:51 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\middleware.py changed, reloading.
+2022-09-09 22:57:52 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:58:51 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\middleware.py changed, reloading.
+2022-09-09 22:58:51 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:59:07 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 22:59:15 basehttp.log_message: "GET /login/ HTTP/1.1" 200 45
+2022-09-09 22:59:17 basehttp.log_message: "GET /login/ HTTP/1.1" 200 45
+2022-09-09 23:00:57 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\middleware.py changed, reloading.
+2022-09-09 23:00:57 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:01:01 basehttp.log_message: "GET /login/ HTTP/1.1" 200 45
+2022-09-09 23:01:04 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:01:07 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:01:08 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:01:08 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:02:14 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:02:17 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:02:18 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:02:18 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:02:18 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:02:18 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:02:18 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:02:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:03:09 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:03:37 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:03:43 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:04:52 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:04:52 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:04:59 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:05:02 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:06:18 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:06:30 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 45
+2022-09-09 23:07:39 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:50 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:07:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:09:32 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:09:35 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:09:35 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:10:36 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:10:42 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:10:42 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:11:00 basehttp.log_message: "GET /polls/login HTTP/1.1" 301 0
+2022-09-09 23:11:00 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:11:03 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:14 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:12:17 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:18 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:18 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:18 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:18 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:19 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:19 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:24 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:52 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:12:55 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:56 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:56 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:12:56 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:13:13 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:13:17 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:13:54 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:13:57 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:13:58 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:15:05 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:15:08 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:15:08 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:16:11 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:16:14 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:17:12 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:17:15 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:17:40 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:17:42 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 45
+2022-09-09 23:20:00 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:20:03 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2445
+2022-09-09 23:21:00 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:21:04 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2445
+2022-09-09 23:22:06 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:10 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:11 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:22:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 302 0
+2022-09-09 23:23:17 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:23:21 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:23:21 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:23:38 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 45
+2022-09-09 23:23:42 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:23:42 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:11 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:24:13 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:24:13 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:14 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:24:14 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:15 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:24:15 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:22 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:24:22 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:26 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 45
+2022-09-09 23:27:16 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\middleware.py changed, reloading.
+2022-09-09 23:27:17 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:30:15 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\middleware.py changed, reloading.
+2022-09-09 23:30:16 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:32:22 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:32:29 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:32:29 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:33:32 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:33:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:33:36 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:33:37 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 45
+2022-09-09 23:34:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:36:23 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:36:32 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:36:32 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:36:34 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:36:34 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2445
+2022-09-09 23:36:56 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-09 23:36:56 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:36:56 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:36:58 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:36:58 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:37:36 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:37:43 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:37:43 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:37:46 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:37:46 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:37:54 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-09 23:37:54 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:37:54 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:37:56 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:37:56 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:38:41 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:38:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:38:45 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:38:46 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:38:46 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:38:53 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-09 23:38:53 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:38:53 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:38:56 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:38:56 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:42:33 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-09 23:42:34 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:42:42 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:42:42 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:42:55 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:42:55 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:43:07 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:43:07 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:43:08 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:43:08 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2445
+2022-09-09 23:43:18 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:43:18 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:43:30 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:43:30 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:43:43 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:43:43 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:47:09 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:47:17 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:47:17 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:47:19 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:47:19 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2462
+2022-09-09 23:47:29 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-09 23:47:29 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:47:29 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:57:56 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:58:01 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:58:01 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:58:06 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:58:06 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:58:07 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:58:07 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:58:08 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-09 23:58:08 log.log_response: Not Found: /polls/teachers/polls/login/
+2022-09-09 23:58:08 basehttp.log_message: "GET /polls/teachers/polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 404 3703
+2022-09-09 23:58:55 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-09 23:59:01 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-09 23:59:01 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:59:02 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-09 23:59:02 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 00:00:26 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 00:00:27 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:00:34 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:00:34 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:00:36 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:00:36 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:00:39 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:00:43 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:00:43 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:00:45 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:00:45 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:00:58 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2486
+2022-09-10 00:01:06 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2486
+2022-09-10 00:01:07 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2498
+2022-09-10 00:01:21 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 00:01:21 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:01:21 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:01:25 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:01:25 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:02:16 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:02:22 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:02:22 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:02:24 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:02:24 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:02:33 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 00:02:33 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:02:33 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:02:37 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:02:37 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:07:30 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 00:07:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:13:44 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 00:13:44 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:15:01 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-10 00:15:02 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:15:24 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:15:30 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:15:30 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:15:34 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:15:34 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:15:34 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:15:34 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:15:46 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 00:15:46 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:15:46 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:15:49 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:15:49 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:18:34 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:18:40 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:18:40 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:18:42 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:18:42 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:18:43 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:18:43 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:20:42 log.log_response: Not Found: /acount/login/
+2022-09-10 00:20:42 basehttp.log_message: "GET /acount/login/ HTTP/1.1" 404 2460
+2022-09-10 00:20:57 log.log_response: Not Found: /acounts/login/
+2022-09-10 00:20:57 basehttp.log_message: "GET /acounts/login/ HTTP/1.1" 404 2463
+2022-09-10 00:23:12 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:23:49 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:25:29 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:36:07 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 00:36:07 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:36:15 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 00:36:16 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:36:29 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 00:36:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:37:00 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 00:37:00 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:37:11 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 00:37:12 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:38:58 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:39:13 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:39:26 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:39:26 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:39:28 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:39:28 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:39:29 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:39:29 log.log_response: Not Found: /accounts/login/
+2022-09-10 00:39:29 basehttp.log_message: "GET /accounts/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 404 2498
+2022-09-10 00:40:21 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:40:30 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:40:30 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:40:32 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:40:32 basehttp.log_message: "GET /polls/login?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 301 0
+2022-09-10 00:40:32 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:40:42 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2498
+2022-09-10 00:41:03 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2498
+2022-09-10 00:43:59 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2498
+2022-09-10 00:44:15 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2498
+2022-09-10 00:45:14 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2498
+2022-09-10 00:47:29 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:47:34 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:47:34 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:47:36 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:47:36 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:47:56 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2498
+2022-09-10 00:48:51 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:48:57 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:48:57 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:48:59 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:48:59 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2462
+2022-09-10 00:49:08 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2498
+2022-09-10 00:49:45 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:49:51 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2494
+2022-09-10 00:50:03 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2494
+2022-09-10 00:52:38 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 00:52:52 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 00:52:52 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:52:53 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 00:52:53 basehttp.log_message: "GET /polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 200 2458
+2022-09-10 00:53:01 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 200 2494
+2022-09-10 01:02:42 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:02:49 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:02:49 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:02:49 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:02:53 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:02:53 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:02:59 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-10 01:03:01 log.log_response: Not Found: /polls/criticize/
+2022-09-10 01:03:01 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:02 log.log_response: Not Found: /polls/criticize/
+2022-09-10 01:03:02 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:02 log.log_response: Not Found: /polls/criticize/
+2022-09-10 01:03:02 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:02 log.log_response: Not Found: /polls/criticize/
+2022-09-10 01:03:02 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:03 log.log_response: Not Found: /polls/criticize/
+2022-09-10 01:03:03 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:03 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-10 01:03:04 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-10 01:03:04 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-10 01:03:05 log.log_response: Not Found: /polls/criticize/
+2022-09-10 01:03:05 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:04:13 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:04:20 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:04:20 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:04:21 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:04:21 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:04:22 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:04:57 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:05:02 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:05:02 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:05:03 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:05:03 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:06:02 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:06:02 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:06:02 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:06:07 log.log_response: Internal Server Error: /polls/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\polls\views.py", line 26, in show_teachers
+    print('******',request.session['userid'])
+  File "E:\project\python_learn\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 53, in __getitem__
+    return self._session[key]
+KeyError: 'userid'
+2022-09-10 01:06:07 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 500 73892
+2022-09-10 01:06:42 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:06:43 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:06:49 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:06:49 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:06:55 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:06:55 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:08:09 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:08:14 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:08:14 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:08:16 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:08:16 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:08:26 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:08:26 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:08:26 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:08:28 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:08:28 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:08:54 basehttp.log_message: "GET /polls/logout HTTP/1.1" 301 0
+2022-09-10 01:08:54 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:08:54 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:08:54 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:09:13 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:09:13 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:09:41 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:09:41 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:12:36 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:12:37 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:16:01 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:16:01 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:16:27 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:16:27 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:17:31 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:17:46 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:17:46 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:17:48 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:17:48 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:19:54 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:20:02 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:20:02 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:20:03 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:20:03 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:23:43 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:23:48 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:23:48 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:23:49 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:23:49 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:24:00 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:24:00 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:24:00 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:24:02 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:24:02 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:24:04 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:24:05 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:24:05 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:24:06 log.log_response: Not Found: /polls/criticize/
+2022-09-10 01:24:06 basehttp.log_message: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:25:53 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:27:08 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:27:19 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:27:19 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:27:21 log.log_response: Internal Server Error: /polls/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+AttributeError: 'WSGIRequest' object has no attribute 'get'
+2022-09-10 01:27:21 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 500 70050
+2022-09-10 01:27:59 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:28:03 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:28:03 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:28:04 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:28:04 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:28:08 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:28:19 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:28:19 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:28:19 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:28:22 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:28:22 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:28:34 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:28:34 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:28:34 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:28:35 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:28:35 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:28:37 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:28:45 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:28:53 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:28:53 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:28:53 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:28:55 log.log_response: Internal Server Error: /polls/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+AttributeError: 'WSGIRequest' object has no attribute 'get'
+2022-09-10 01:28:55 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 500 69829
+2022-09-10 01:30:18 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:30:18 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:31:10 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:31:11 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:32:10 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:32:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:32:16 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:32:17 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:32:17 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:32:33 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:32:33 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:32:33 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:32:35 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:32:35 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:32:36 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:32:44 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:32:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:32:44 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:32:45 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:32:45 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:37:16 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:37:26 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:37:26 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:37:26 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:37:31 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:37:31 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:37:43 log.log_response: Internal Server Error: /polls/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\polls\views.py", line 92, in login
+    return HttpResponseRedirect(request.session['login_from'])
+  File "E:\project\python_learn\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 53, in __getitem__
+    return self._session[key]
+KeyError: 'login_from'
+2022-09-10 01:37:43 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 500 75391
+2022-09-10 01:38:57 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:39:03 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:39:03 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:39:05 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:39:05 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:39:12 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:39:12 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2458
+2022-09-10 01:41:15 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:41:16 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:42:04 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:42:05 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:42:38 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:42:50 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2458
+2022-09-10 01:42:58 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:42:58 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:42:58 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:42:59 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:42:59 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:43:09 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:43:09 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:43:09 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:43:11 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:43:11 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:43:13 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:43:15 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:43:18 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 63
+2022-09-10 01:43:19 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-10 01:43:38 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:43:38 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:43:38 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:43:40 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:43:40 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:43:47 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:43:47 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:44:01 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:44:01 log.log_response: Not Found: /
+2022-09-10 01:44:01 basehttp.log_message: "GET / HTTP/1.1" 404 2403
+2022-09-10 01:44:09 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:44:09 log.log_response: Not Found: /
+2022-09-10 01:44:09 basehttp.log_message: "GET / HTTP/1.1" 404 2403
+2022-09-10 01:44:34 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:44:44 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:44:44 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:44:44 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:44:45 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:44:45 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:44:51 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:44:51 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:44:51 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:44:53 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:44:53 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:44:54 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-10 01:45:03 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:45:03 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:45:03 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:45:05 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:45:05 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:45:16 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:45:16 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:45:25 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:45:25 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:45:25 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:46:58 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:46:58 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:50:33 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 01:50:34 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:50:46 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:50:46 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:50:53 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:50:53 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:50:54 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:50:56 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:50:56 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:51:03 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:51:03 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:51:03 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:51:05 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2476
+2022-09-10 01:51:05 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:51:11 basehttp.log_message: "GET /polls/praise/?tno=1 HTTP/1.1" 200 64
+2022-09-10 01:51:25 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2351
+2022-09-10 01:51:25 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:53:18 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:53:22 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2499
+2022-09-10 01:53:22 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:53:24 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2620
+2022-09-10 01:53:24 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:53:26 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:53:26 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2488
+2022-09-10 01:53:26 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:53:29 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 01:53:29 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:53:45 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:53:45 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2499
+2022-09-10 01:53:45 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:54:14 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:54:17 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2332
+2022-09-10 01:54:17 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:54:27 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:54:27 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2321
+2022-09-10 01:54:27 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:54:30 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2441
+2022-09-10 01:54:52 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:54:52 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2332
+2022-09-10 01:54:52 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:27 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:55:31 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2332
+2022-09-10 01:55:31 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:31 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2332
+2022-09-10 01:55:31 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:32 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2332
+2022-09-10 01:55:32 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:35 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:55:35 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2321
+2022-09-10 01:55:35 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:37 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2445
+2022-09-10 01:55:56 log.log_response: Not Found: /
+2022-09-10 01:55:56 basehttp.log_message: "GET / HTTP/1.1" 404 2403
+2022-09-10 01:56:01 log.log_response: Not Found: /register/
+2022-09-10 01:56:01 basehttp.log_message: "GET /register/ HTTP/1.1" 404 2448
+2022-09-10 01:56:16 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:56:20 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2473
+2022-09-10 01:56:37 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 01:56:40 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2473
+2022-09-10 01:56:52 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-10 01:56:52 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2332
+2022-09-10 01:56:52 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:56:54 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 200 2620
+2022-09-10 01:56:54 basehttp.log_message: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:56:58 basehttp.log_message: "GET /polls/logout/ HTTP/1.1" 302 0
+2022-09-10 01:56:58 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2321
+2022-09-10 01:56:58 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:57:03 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2473
+2022-09-10 02:01:06 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 02:01:17 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 02:01:17 log.log_response: Internal Server Error: /polls/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\polls\views.py", line 84, in login
+    print('***',request.REQUEST.get('next'))
+AttributeError: 'WSGIRequest' object has no attribute 'REQUEST'
+2022-09-10 02:01:17 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 500 70371
+2022-09-10 02:01:39 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-10 02:01:45 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 02:01:45 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2473
+2022-09-10 02:02:09 basehttp.log_message: "GET /polls HTTP/1.1" 301 0
+2022-09-10 02:02:09 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2321
+2022-09-10 02:02:09 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 02:02:11 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-10 02:02:11 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2473
+2022-09-10 02:05:30 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\views.py changed, reloading.
+2022-09-10 02:05:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 15:52:06 log.log_response: Not Found: /
+2022-09-11 15:52:06 basehttp.log_message: "GET / HTTP/1.1" 404 2403
+2022-09-11 15:52:06 log.log_response: Not Found: /
+2022-09-11 15:52:06 basehttp.log_message: "GET / HTTP/1.1" 404 2403
+2022-09-11 15:52:16 basehttp.log_message: "GET /polls/ HTTP/1.1" 200 2321
+2022-09-11 15:52:16 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-11 15:52:17 basehttp.log_message: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-11 15:52:19 basehttp.log_message: "GET /polls/teachers/?sno=1 HTTP/1.1" 302 0
+2022-09-11 15:52:19 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2473
+2022-09-11 15:53:30 log.log_response: Forbidden (CSRF cookie not set.): /polls/teachers/
+2022-09-11 15:53:30 basehttp.log_message: "DELETE /polls/teachers/?sno=1 HTTP/1.1" 403 2801
+2022-09-11 15:54:54 log.log_response: Internal Server Error: /polls/login
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 88, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/polls/login/?username=hellokitty&passworld=Abc123!! (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2022-09-11 15:54:54 basehttp.log_message: "POST /polls/login?username=hellokitty&passworld=Abc123!! HTTP/1.1" 500 74447
+2022-09-11 15:55:38 basehttp.log_message: "GET /polls/login?username=hellokitty&passworld=Abc123!! HTTP/1.1" 301 0
+2022-09-11 15:55:38 basehttp.log_message: "GET /polls/login/?username=hellokitty&passworld=Abc123!! HTTP/1.1" 200 2473
+2022-09-11 15:58:43 log.log_response: Internal Server Error: /polls/login
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 88, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/polls/login/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2022-09-11 15:58:43 basehttp.log_message: "POST /polls/login HTTP/1.1" 500 74199
+2022-09-11 16:00:40 basehttp.log_message: "GET /polls/login?username=hellokitty&passworld=Abc123!! HTTP/1.1" 301 0
+2022-09-11 16:00:40 basehttp.log_message: "GET /polls/login/?username=hellokitty&passworld=Abc123!! HTTP/1.1" 200 2473
+2022-09-11 16:52:39 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 16:52:45 basehttp.log_message: "GET /polls/login/ HTTP/1.1" 200 2473
+2022-09-11 16:52:54 basehttp.log_message: "GET /polls/login?username=hellokitty&passworld=Abc123!! HTTP/1.1" 301 0
+2022-09-11 16:52:54 basehttp.log_message: "GET /polls/login/?username=hellokitty&passworld=Abc123!! HTTP/1.1" 200 2473
+2022-09-11 16:56:12 log.log_response: Internal Server Error: /polls/login
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 88, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/polls/login/?username=hellokitty&passworld=Abc123!! (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2022-09-11 16:56:12 basehttp.log_message: "POST /polls/login?username=hellokitty&passworld=Abc123!! HTTP/1.1" 500 75156
+2022-09-11 16:56:27 log.log_response: Internal Server Error: /polls/login
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 88, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/polls/login/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2022-09-11 16:56:27 basehttp.log_message: "POST /polls/login HTTP/1.1" 500 74205
+2022-09-11 16:56:54 log.log_response: Forbidden (CSRF token missing.): /polls/login/
+2022-09-11 16:56:54 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 403 2501
+2022-09-11 16:57:41 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-11 16:57:42 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 16:57:43 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 16:57:46 basehttp.log_message: "POST /polls/login/ HTTP/1.1" 302 0
+2022-09-11 16:57:47 basehttp.log_message: "GET /polls/login?username=hellokitty&passworld=Abc123!! HTTP/1.1" 301 0
+2022-09-11 16:57:47 basehttp.log_message: "GET /polls/login/?username=hellokitty&passworld=Abc123!! HTTP/1.1" 200 2490
+2022-09-11 17:07:45 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-11 17:07:46 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:14:42 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\models.py changed, reloading.
+2022-09-11 17:14:43 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:15:45 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:15:48 log.log_response: Not Found: /
+2022-09-11 17:15:48 basehttp.log_message: "GET / HTTP/1.1" 404 2401
+2022-09-11 17:15:48 log.log_response: Not Found: /
+2022-09-11 17:15:48 basehttp.log_message: "GET / HTTP/1.1" 404 2401
+2022-09-11 17:16:09 basehttp.log_message: "GET /api/login HTTP/1.1" 301 0
+2022-09-11 17:16:09 base.http_method_not_allowed: Method Not Allowed (GET): /api/login/
+2022-09-11 17:16:09 log.log_response: Method Not Allowed: /api/login/
+2022-09-11 17:16:09 basehttp.log_message: "GET /api/login/ HTTP/1.1" 405 0
+2022-09-11 17:16:12 log.log_response: Internal Server Error: /api/login
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\common.py", line 88, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/login/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2022-09-11 17:16:12 basehttp.log_message: "POST /api/login HTTP/1.1" 500 73597
+2022-09-11 17:16:33 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: Login.post() takes 1 positional argument but 2 were given
+2022-09-11 17:16:33 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 73549
+2022-09-11 17:16:57 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:16:57 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:16:58 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 15
+2022-09-11 17:23:09 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:23:10 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:23:11 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 74
+2022-09-11 17:24:39 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:24:41 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 50
+2022-09-11 17:26:16 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 50
+2022-09-11 17:26:17 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 50
+2022-09-11 17:26:51 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:26:54 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 50
+2022-09-11 17:27:10 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:27:12 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 50
+2022-09-11 17:27:36 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 21, in post
+    return JsonResponse({'code': '200', 'msg': '登陆成功', 'session': request.session})
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type SessionStore is not JSON serializable
+2022-09-11 17:27:36 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 104204
+2022-09-11 17:28:28 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:28:28 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:28:35 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 50
+2022-09-11 17:29:04 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:29:05 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:29:08 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 38
+2022-09-11 17:30:11 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:30:12 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:30:16 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 38
+2022-09-11 17:30:51 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:30:52 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:30:55 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 19, in post
+    print(request.session.session)
+AttributeError: 'SessionStore' object has no attribute 'session'
+2022-09-11 17:30:55 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 78213
+2022-09-11 17:32:24 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:32:25 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:32:28 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 38
+2022-09-11 17:35:11 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:35:11 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:35:19 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 20, in post
+    return JsonResponse({'code': '200', 'msg': '登陆成功','session':request.session.userid},json_dumps_params={'ensure_ascii':False})
+AttributeError: 'SessionStore' object has no attribute 'userid'
+2022-09-11 17:35:19 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 78241
+2022-09-11 17:35:43 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:35:44 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:35:47 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 20, in post
+    return JsonResponse({'code': '200', 'msg': '登陆成功','session':request.session.keys()},json_dumps_params={'ensure_ascii':False})
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type dict_keys is not JSON serializable
+2022-09-11 17:35:47 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 104275
+2022-09-11 17:36:05 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:36:05 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:36:08 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 20, in post
+    return JsonResponse({'code': '200', 'msg': '登陆成功','session':request.session},json_dumps_params={'ensure_ascii':False})
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type SessionStore is not JSON serializable
+2022-09-11 17:36:08 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 104337
+2022-09-11 17:46:34 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-11 17:46:34 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:46:56 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-11 17:46:57 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:47:15 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-11 17:47:16 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:51:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:51:37 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:54:01 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:54:11 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 50
+2022-09-11 17:55:06 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:55:06 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:55:09 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 50
+2022-09-11 17:56:14 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:56:14 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:56:15 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 22, in post
+    jwt_payload_handler = api_settings.JWT_PAYLOAD_HANDLER
+  File "E:\project\python_learn\venv\lib\site-packages\rest_framework\settings.py", line 214, in __getattr__
+    raise AttributeError("Invalid API setting: '%s'" % attr)
+AttributeError: Invalid API setting: 'JWT_PAYLOAD_HANDLER'
+2022-09-11 17:56:15 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 83336
+2022-09-11 17:57:33 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 17:57:34 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 17:57:39 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 23, in post
+    jwt_payload_handler = api_settings.JWT_PAYLOAD_HANDLER
+  File "E:\project\python_learn\venv\lib\site-packages\rest_framework\settings.py", line 214, in __getattr__
+    raise AttributeError("Invalid API setting: '%s'" % attr)
+AttributeError: Invalid API setting: 'JWT_PAYLOAD_HANDLER'
+2022-09-11 17:57:39 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 83456
+2022-09-11 18:06:19 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 18:06:19 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:06:23 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 23, in post
+    jwt_payload_handler = api_settings.JWT_PAYLOAD_HANDLER
+  File "E:\project\python_learn\venv\lib\site-packages\rest_framework\settings.py", line 214, in __getattr__
+    raise AttributeError("Invalid API setting: '%s'" % attr)
+AttributeError: Invalid API setting: 'JWT_PAYLOAD_HANDLER'
+2022-09-11 18:06:23 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 83469
+2022-09-11 18:07:30 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 18:07:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:07:33 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 23, in post
+    jwt_payload_handler = api_settings.JWT_PAYLOAD_HANDLER
+  File "E:\project\python_learn\venv\lib\site-packages\rest_framework\settings.py", line 214, in __getattr__
+    raise AttributeError("Invalid API setting: '%s'" % attr)
+AttributeError: Invalid API setting: 'JWT_PAYLOAD_HANDLER'
+2022-09-11 18:07:33 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 83478
+2022-09-11 18:08:47 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:08:51 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 23, in post
+    jwt_payload_handler = api_settings.JWT_PAYLOAD_HANDLER
+  File "E:\project\python_learn\venv\lib\site-packages\rest_framework\settings.py", line 214, in __getattr__
+    raise AttributeError("Invalid API setting: '%s'" % attr)
+AttributeError: Invalid API setting: 'JWT_PAYLOAD_HANDLER'
+2022-09-11 18:08:51 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 83478
+2022-09-11 18:13:25 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 18:13:25 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:15:32 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 18:15:32 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:17:36 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 18:17:37 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:17:45 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 23, in post
+    token = get_jwt_token(username)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 36, in get_jwt_token
+    'exp': datetime.utcnow() + datetime.timedelta(seconds=3600),  # 单位秒
+AttributeError: module 'datetime' has no attribute 'utcnow'
+2022-09-11 18:17:45 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 83093
+2022-09-11 18:18:07 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:18:10 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-11 18:18:33 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 18:18:33 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:18:54 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 18:18:55 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:20:52 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 18:20:53 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 18:23:53 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\hellodjango\settings.py changed, reloading.
+2022-09-11 18:23:53 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 20:57:51 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-11 21:02:13 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-11 21:02:14 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-11 21:02:15 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-11 21:02:16 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-11 21:02:17 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-11 23:54:30 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-11 23:54:31 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-11 23:56:14 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\models.py changed, reloading.
+2022-09-11 23:56:14 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:02:46 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\models.py changed, reloading.
+2022-09-12 00:02:46 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:06:31 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\models.py changed, reloading.
+2022-09-12 00:06:32 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:07:44 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\models.py changed, reloading.
+2022-09-12 00:07:45 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:10:20 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\migrations\0001_initial.py changed, reloading.
+2022-09-12 00:10:20 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:24:52 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:24:53 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:25:00 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-12 00:25:25 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:25:26 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:25:29 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1406, "Data too long for column 'token' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 24, in post
+    TbToken(token=token).save()
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\base.py", line 831, in save
+    self.save_base(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\base.py", line 882, in save_base
+    updated = self._save_table(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.DataError: (1406, "Data too long for column 'token' at row 1")
+2022-09-12 00:25:29 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 219776
+2022-09-12 00:25:52 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\models.py changed, reloading.
+2022-09-12 00:25:53 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:25:56 log.log_response: Internal Server Error: /api/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1406, "Data too long for column 'token' at row 1")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 24, in post
+    TbToken(token=token).save()
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\base.py", line 831, in save
+    self.save_base(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\base.py", line 882, in save_base
+    updated = self._save_table(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\base.py", line 1025, in _save_table
+    results = self._do_insert(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\base.py", line 1066, in _do_insert
+    return manager._insert(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\query.py", line 1790, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1657, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\project\python_learn\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "E:\project\python_learn\venv\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.DataError: (1406, "Data too long for column 'token' at row 1")
+2022-09-12 00:25:56 basehttp.log_message: "POST /api/login/ HTTP/1.1" 500 219555
+2022-09-12 00:26:41 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:26:44 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-12 00:29:26 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-12 00:31:29 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\utils.py changed, reloading.
+2022-09-12 00:31:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:35:20 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:35:21 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:40:51 log.log_response: Not Found: /api/teacher/
+2022-09-12 00:40:51 basehttp.log_message: "GET /api/teacher/?sno=1 HTTP/1.1" 404 2674
+2022-09-12 00:41:27 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\urls.py changed, reloading.
+2022-09-12 00:41:27 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:41:39 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\urls.py changed, reloading.
+2022-09-12 00:41:39 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:41:46 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 32, in show_teachers
+    token = request.MATE.get('token')
+AttributeError: 'WSGIRequest' object has no attribute 'MATE'
+2022-09-12 00:41:46 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 69006
+2022-09-12 00:42:11 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:42:12 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:42:15 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 32, in show_teachers
+    token = request.MATA.get('token')
+AttributeError: 'WSGIRequest' object has no attribute 'MATA'
+2022-09-12 00:42:15 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 69006
+2022-09-12 00:42:41 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:42:41 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:42:44 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 38, in show_teachers
+    return JsonResponse({'code':200,'data':{'teachers':teachers}})
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type QuerySet is not JSON serializable
+2022-09-12 00:42:45 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 94628
+2022-09-12 00:44:20 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:44:20 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:44:24 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 47
+2022-09-12 00:45:01 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:45:02 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:45:04 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 33, in show_teachers
+    print(request.META.__dict__)
+AttributeError: 'dict' object has no attribute '__dict__'
+2022-09-12 00:45:04 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 68982
+2022-09-12 00:45:31 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:45:31 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:45:33 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 47
+2022-09-12 00:48:19 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:48:19 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:48:24 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 47
+2022-09-12 00:49:31 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:49:31 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:49:35 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 47
+2022-09-12 00:49:51 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:49:51 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:49:55 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 47
+2022-09-12 00:50:53 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:50:54 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:51:35 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 00:51:36 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:51:43 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 191, in _load
+    header = json.loads(header_data.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 33, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 226, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 193, in _load
+    raise DecodeError('Invalid header string: %s' % e)
+jwt.exceptions.DecodeError: Invalid header string: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+2022-09-12 00:51:43 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 89089
+2022-09-12 00:52:33 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\utils.py changed, reloading.
+2022-09-12 00:52:33 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:52:36 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 191, in _load
+    header = json.loads(header_data.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 33, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 226, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 193, in _load
+    raise DecodeError('Invalid header string: %s' % e)
+jwt.exceptions.DecodeError: Invalid header string: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+2022-09-12 00:52:36 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 89094
+2022-09-12 00:54:50 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\utils.py changed, reloading.
+2022-09-12 00:54:51 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:54:54 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 191, in _load
+    header = json.loads(header_data.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 33, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 227, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 193, in _load
+    raise DecodeError('Invalid header string: %s' % e)
+jwt.exceptions.DecodeError: Invalid header string: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+2022-09-12 00:54:54 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 89087
+2022-09-12 00:55:29 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\utils.py changed, reloading.
+2022-09-12 00:55:29 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 00:56:12 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\utils.py changed, reloading.
+2022-09-12 00:56:12 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:11:23 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:11:28 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 191, in _load
+    header = json.loads(header_data.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 34, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 227, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 193, in _load
+    raise DecodeError('Invalid header string: %s' % e)
+jwt.exceptions.DecodeError: Invalid header string: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+2022-09-12 01:11:28 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 89033
+2022-09-12 01:12:06 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:12:09 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 191, in _load
+    header = json.loads(header_data.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 34, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 227, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 193, in _load
+    raise DecodeError('Invalid header string: %s' % e)
+jwt.exceptions.DecodeError: Invalid header string: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+2022-09-12 01:12:09 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 89041
+2022-09-12 01:12:50 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:12:52 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 186, in _load
+    header_data = base64url_decode(header_segment)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\utils.py", line 42, in base64url_decode
+    return base64.urlsafe_b64decode(input)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 34, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 227, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 188, in _load
+    raise DecodeError('Invalid header padding')
+jwt.exceptions.DecodeError: Invalid header padding
+2022-09-12 01:12:52 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 99203
+2022-09-12 01:14:13 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 01:14:14 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:14:24 basehttp.log_message: "POST /api/login/ HTTP/1.1" 200 254
+2022-09-12 01:14:53 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:14:56 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 191, in _load
+    header = json.loads(header_data.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 35, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 227, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 193, in _load
+    raise DecodeError('Invalid header string: %s' % e)
+jwt.exceptions.DecodeError: Invalid header string: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+2022-09-12 01:14:56 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 89064
+2022-09-12 01:17:08 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\polls\utils.py changed, reloading.
+2022-09-12 01:17:08 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:17:11 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:17:13 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 191, in _load
+    header = json.loads(header_data.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 35, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 228, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 193, in _load
+    raise DecodeError('Invalid header string: %s' % e)
+jwt.exceptions.DecodeError: Invalid header string: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+2022-09-12 01:17:13 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 89003
+2022-09-12 01:21:02 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:21:15 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 34, in show_teachers
+    print(token.decode('utf-8'))
+AttributeError: 'str' object has no attribute 'decode'
+2022-09-12 01:21:15 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 69017
+2022-09-12 01:22:24 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:22:27 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 191, in _load
+    header = json.loads(header_data.decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 35, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 228, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 193, in _load
+    raise DecodeError('Invalid header string: %s' % e)
+jwt.exceptions.DecodeError: Invalid header string: 'utf-8' codec can't decode byte 0x8e in position 5: invalid start byte
+2022-09-12 01:22:27 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 88995
+2022-09-12 01:24:26 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:24:28 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 47
+2022-09-12 01:25:45 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:25:48 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 186, in _load
+    header_data = base64url_decode(header_segment)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\utils.py", line 42, in base64url_decode
+    return base64.urlsafe_b64decode(input)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\base64.py", line 133, in urlsafe_b64decode
+    return b64decode(s)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (37) cannot be 1 more than a multiple of 4
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 35, in show_teachers
+    token_test = decode_jwt_token(token)
+  File "E:\project\Django_learn\hellodjango\polls\utils.py", line 228, in decode_jwt_token
+    de_code = jwt.decode(encoded_jwt, 'secret_key', algorithms=['HS256'])
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jwt.py", line 84, in decode
+    payload, _, _, _ = self._load(jwt)
+  File "E:\project\python_learn\venv\lib\site-packages\jwt\api_jws.py", line 188, in _load
+    raise DecodeError('Invalid header padding')
+jwt.exceptions.DecodeError: Invalid header padding
+2022-09-12 01:25:48 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 99220
+2022-09-12 01:26:20 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:26:23 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 33, in show_teachers
+    token = request.META.get('HTTP_AUTHORIZATION').replace('Bearer ')
+TypeError: replace expected at least 2 arguments, got 1
+2022-09-12 01:26:23 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 68751
+2022-09-12 01:26:51 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:26:54 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 47
+2022-09-12 01:34:28 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 01:34:28 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:35:47 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:35:50 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 49
+2022-09-12 01:43:44 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 01:43:44 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:43:50 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 49
+2022-09-12 01:45:46 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 01:45:47 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:45:50 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 38, in inner
+    res = func(username,*args, **kwargs)
+TypeError: show_teachers() takes 1 positional argument but 2 were given
+2022-09-12 01:45:50 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 69778
+2022-09-12 01:46:30 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 01:46:30 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:46:55 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:46:59 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 38, in inner
+    res = func(username,*args, **kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 49, in show_teachers
+    sno = int(request.GET.get('sno'))
+AttributeError: 'str' object has no attribute 'GET'
+2022-09-12 01:46:59 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 73733
+2022-09-12 01:48:52 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 01:48:53 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:48:56 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:48:59 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 39, in inner
+    res = func(*args, **kwargs)
+TypeError: show_teachers() got an unexpected keyword argument 'username'
+2022-09-12 01:48:59 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 69874
+2022-09-12 01:49:46 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 01:49:46 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:49:47 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:49:50 log.log_response: Internal Server Error: /api/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 39, in inner
+    res = func(*args, **kwargs)
+TypeError: show_teachers() got an unexpected keyword argument 'username'
+2022-09-12 01:49:50 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 500 69874
+2022-09-12 01:50:22 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 01:50:22 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:50:24 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 01:50:26 basehttp.log_message: "GET /api/teachers/?sno=1 HTTP/1.1" 200 49
+2022-09-12 02:00:15 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\urls.py changed, reloading.
+2022-09-12 02:00:15 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 02:01:38 log.log_response: Internal Server Error: /api/praise/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\interface_test\views.py", line 34, in inner
+    token = args[0].META.get('HTTP_AUTHORIZATION').replace('Bearer ', '')
+AttributeError: 'NoneType' object has no attribute 'replace'
+2022-09-12 02:01:38 basehttp.log_message: "GET /api/praise/?tno=1 HTTP/1.1" 500 68761
+2022-09-12 02:03:25 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 02:03:26 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 02:03:28 basehttp.log_message: "GET /api/praise/?tno=1 HTTP/1.1" 200 43
+2022-09-12 02:03:37 basehttp.log_message: "GET /api/praise/?tno=1 HTTP/1.1" 200 74
+2022-09-12 02:04:17 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 02:04:18 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 02:05:04 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 02:05:04 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 02:05:07 basehttp.log_message: "GET /api/praise/?tno=1 HTTP/1.1" 200 77
+2022-09-12 02:06:37 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 02:06:37 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 02:06:40 basehttp.log_message: "GET /api/praise/?tno=1 HTTP/1.1" 200 62
+2022-09-12 02:06:45 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 02:06:46 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 02:06:49 autoreload.trigger_reload: E:\project\Django_learn\hellodjango\interface_test\views.py changed, reloading.
+2022-09-12 02:06:49 autoreload.run_with_reloader: Watching for file changes with StatReloader
+2022-09-12 02:06:54 basehttp.log_message: "GET /api/praise/?tno=1 HTTP/1.1" 200 61

@@ -1,0 +1,265 @@
+2022-09-09 22:14:21 WARNING [94684-Thread-1 (process_request_thread)] log.log_response line 241: Not Found: /
+2022-09-09 22:14:21 WARNING [94684-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET / HTTP/1.1" 404 2403
+2022-09-09 22:14:21 WARNING [94684-Thread-1 (process_request_thread)] log.log_response line 241: Not Found: /
+2022-09-09 22:14:21 WARNING [94684-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET / HTTP/1.1" 404 2403
+2022-09-09 22:14:21 WARNING [94684-Thread-1 (process_request_thread)] log.log_response line 241: Not Found: /favicon.ico
+2022-09-09 22:14:21 WARNING [94684-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /favicon.ico HTTP/1.1" 404 2454
+2022-09-09 22:14:21 WARNING [94684-Thread-1 (process_request_thread)] log.log_response line 241: Not Found: /favicon.ico
+2022-09-09 22:14:21 WARNING [94684-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /favicon.ico HTTP/1.1" 404 2454
+2022-09-09 22:15:54 WARNING [44824-Thread-4 (process_request_thread)] log.log_response line 241: Not Found: /polls/teachers/
+2022-09-09 22:15:54 WARNING [44824-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /polls/teachers/ HTTP/1.1" 404 5319
+2022-09-09 22:16:10 WARNING [44824-Thread-4 (process_request_thread)] log.log_response line 241: Not Found: /polls/teachers/2
+2022-09-09 22:16:10 WARNING [44824-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /polls/teachers/2 HTTP/1.1" 404 3638
+2022-09-09 22:16:17 WARNING [44824-Thread-4 (process_request_thread)] log.log_response line 241: Not Found: /polls/teachers/1
+2022-09-09 22:16:17 WARNING [44824-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /polls/teachers/1 HTTP/1.1" 404 3638
+2022-09-09 22:19:40 WARNING [110964-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:19:44 WARNING [110964-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:17 WARNING [87072-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:17 WARNING [87072-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:18 WARNING [87072-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:18 WARNING [87072-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:21:54 WARNING [93752-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:34:20 WARNING [117392-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:34:24 WARNING [117392-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:34:30 WARNING [117392-Thread-5 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:34:58 WARNING [117392-Thread-6 (process_request_thread)] log.log_response line 241: Not Found: /polls/register/
+2022-09-09 22:34:58 WARNING [117392-Thread-6 (process_request_thread)] basehttp.log_message line 187: "GET /polls/register/ HTTP/1.1" 404 3635
+2022-09-09 22:35:03 WARNING [117392-Thread-6 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:35:11 WARNING [117392-Thread-7 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:35:22 WARNING [117392-Thread-8 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:36:17 WARNING [117392-Thread-9 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 22:36:26 WARNING [117392-Thread-10 (process_request_thread)] log.log_response line 241: Not Found: /polls/register/
+2022-09-09 22:36:26 WARNING [117392-Thread-10 (process_request_thread)] basehttp.log_message line 187: "GET /polls/register/ HTTP/1.1" 404 3635
+2022-09-09 22:36:53 WARNING [117392-Thread-10 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:37:07 WARNING [117392-Thread-11 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-09 22:37:08 WARNING [117392-Thread-12 (process_request_thread)] log.log_response line 241: Not Found: /favicon.ico
+2022-09-09 22:37:08 WARNING [117392-Thread-12 (process_request_thread)] basehttp.log_message line 187: "GET /favicon.ico HTTP/1.1" 404 2454
+2022-09-09 22:37:17 WARNING [117392-Thread-13 (process_request_thread)] log.log_response line 241: Forbidden (CSRF cookie not set.): /polls/teachers/
+2022-09-09 22:37:17 WARNING [117392-Thread-13 (process_request_thread)] basehttp.log_message line 187: "DELETE /polls/teachers/?sno=1 HTTP/1.1" 403 2801
+2022-09-09 22:54:09 ERROR [119160-Thread-1 (process_request_thread)] log.log_response line 241: Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\Django_learn\hellodjango\polls\middleware.py", line 23, in process_request
+    return JsonResponse({'status': False, 'info': '用户未登录!'},encoder='utf-8')
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 234, in dumps
+    return cls(
+TypeError: 'str' object is not callable
+2022-09-09 22:54:09 ERROR [119160-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /login/ HTTP/1.1" 500 79286
+2022-09-09 22:54:10 ERROR [119160-Thread-1 (process_request_thread)] log.log_response line 241: Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\Django_learn\hellodjango\polls\middleware.py", line 23, in process_request
+    return JsonResponse({'status': False, 'info': '用户未登录!'},encoder='utf-8')
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 234, in dumps
+    return cls(
+TypeError: 'str' object is not callable
+2022-09-09 22:54:10 ERROR [119160-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /login/ HTTP/1.1" 500 79286
+2022-09-09 22:54:10 ERROR [119160-Thread-1 (process_request_thread)] log.log_response line 241: Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "E:\project\Django_learn\hellodjango\polls\middleware.py", line 23, in process_request
+    return JsonResponse({'status': False, 'info': '用户未登录!'},encoder='utf-8')
+  File "E:\project\python_learn\venv\lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+  File "C:\Users\李国芳\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 234, in dumps
+    return cls(
+TypeError: 'str' object is not callable
+2022-09-09 22:54:10 ERROR [119160-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /login/ HTTP/1.1" 500 79286
+2022-09-09 23:09:35 WARNING [121208-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:10:42 WARNING [92872-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:23:21 WARNING [90780-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:23:42 WARNING [90780-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:13 WARNING [92192-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:14 WARNING [92192-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:15 WARNING [92192-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:24:22 WARNING [92192-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:32:29 WARNING [107032-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:33:36 WARNING [123604-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:36:32 WARNING [119392-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:36:56 WARNING [119392-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:37:43 WARNING [92580-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:37:54 WARNING [92580-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:38:45 WARNING [79084-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:38:53 WARNING [79084-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:43:07 WARNING [87976-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:47:17 WARNING [115136-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:47:29 WARNING [115136-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:58:01 WARNING [105032-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:58:06 WARNING [105032-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:58:07 WARNING [105032-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:58:08 WARNING [105032-Thread-4 (process_request_thread)] log.log_response line 241: Not Found: /polls/teachers/polls/login/
+2022-09-09 23:58:08 WARNING [105032-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /polls/teachers/polls/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 404 3703
+2022-09-09 23:59:01 WARNING [65968-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-09 23:59:02 WARNING [65968-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 00:00:34 WARNING [117660-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:00:36 WARNING [117660-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:00:43 WARNING [121548-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:01:21 WARNING [121548-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:02:22 WARNING [73208-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:02:33 WARNING [73208-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:15:30 WARNING [111060-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:15:34 WARNING [111060-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:15:46 WARNING [111060-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:18:40 WARNING [108832-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:18:42 WARNING [108832-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:20:42 WARNING [108832-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /acount/login/
+2022-09-10 00:20:42 WARNING [108832-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /acount/login/ HTTP/1.1" 404 2460
+2022-09-10 00:20:57 WARNING [108832-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /acounts/login/
+2022-09-10 00:20:57 WARNING [108832-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /acounts/login/ HTTP/1.1" 404 2463
+2022-09-10 00:39:26 WARNING [25008-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:39:28 WARNING [25008-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:39:29 WARNING [25008-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /accounts/login/
+2022-09-10 00:39:29 WARNING [25008-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /accounts/login/?next=/polls/teachers/%3Fsno%3D1 HTTP/1.1" 404 2498
+2022-09-10 00:40:30 WARNING [94364-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:47:34 WARNING [114480-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:48:57 WARNING [76468-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 00:52:52 WARNING [117368-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:02:49 WARNING [99340-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:02:53 WARNING [99340-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:03:01 WARNING [99340-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /polls/criticize/
+2022-09-10 01:03:01 WARNING [99340-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:02 WARNING [99340-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /polls/criticize/
+2022-09-10 01:03:02 WARNING [99340-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:02 WARNING [99340-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /polls/criticize/
+2022-09-10 01:03:02 WARNING [99340-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:02 WARNING [99340-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /polls/criticize/
+2022-09-10 01:03:02 WARNING [99340-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:03 WARNING [99340-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /polls/criticize/
+2022-09-10 01:03:03 WARNING [99340-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:03:05 WARNING [99340-Thread-3 (process_request_thread)] log.log_response line 241: Not Found: /polls/criticize/
+2022-09-10 01:03:05 WARNING [99340-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:04:20 WARNING [46192-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:04:21 WARNING [46192-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:05:02 WARNING [104352-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:05:03 WARNING [104352-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:06:02 WARNING [104352-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:06:07 ERROR [104352-Thread-4 (process_request_thread)] log.log_response line 241: Internal Server Error: /polls/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\polls\views.py", line 26, in show_teachers
+    print('******',request.session['userid'])
+  File "E:\project\python_learn\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 53, in __getitem__
+    return self._session[key]
+KeyError: 'userid'
+2022-09-10 01:06:07 ERROR [104352-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /polls/teachers/?sno=1 HTTP/1.1" 500 73892
+2022-09-10 01:06:49 WARNING [120024-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:06:55 WARNING [120024-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:08:14 WARNING [112760-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:08:26 WARNING [112760-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:08:28 WARNING [112760-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:08:54 WARNING [112760-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:17:46 WARNING [115096-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:20:02 WARNING [46292-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:23:48 WARNING [89596-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:24:00 WARNING [89596-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:24:02 WARNING [89596-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:24:06 WARNING [89596-Thread-4 (process_request_thread)] log.log_response line 241: Not Found: /polls/criticize/
+2022-09-10 01:24:06 WARNING [89596-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /polls/criticize/?tno=1 HTTP/1.1" 404 3481
+2022-09-10 01:27:19 WARNING [118984-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:27:21 ERROR [118984-Thread-2 (process_request_thread)] log.log_response line 241: Internal Server Error: /polls/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+AttributeError: 'WSGIRequest' object has no attribute 'get'
+2022-09-10 01:27:21 ERROR [118984-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /polls/teachers/?sno=1 HTTP/1.1" 500 70050
+2022-09-10 01:28:03 WARNING [120936-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:28:04 WARNING [120936-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:28:19 WARNING [120936-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:28:34 WARNING [120936-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:28:35 WARNING [120936-Thread-5 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:28:53 WARNING [52496-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:28:55 ERROR [52496-Thread-2 (process_request_thread)] log.log_response line 241: Internal Server Error: /polls/teachers/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_response(request, response)
+  File "E:\project\python_learn\venv\lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+AttributeError: 'WSGIRequest' object has no attribute 'get'
+2022-09-10 01:28:55 ERROR [52496-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /polls/teachers/?sno=1 HTTP/1.1" 500 69829
+2022-09-10 01:32:16 WARNING [116164-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:32:33 WARNING [116164-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:32:35 WARNING [116164-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:32:44 WARNING [116164-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:37:26 WARNING [102404-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:37:43 ERROR [102404-Thread-2 (process_request_thread)] log.log_response line 241: Internal Server Error: /polls/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\polls\views.py", line 92, in login
+    return HttpResponseRedirect(request.session['login_from'])
+  File "E:\project\python_learn\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 53, in __getitem__
+    return self._session[key]
+KeyError: 'login_from'
+2022-09-10 01:37:43 ERROR [102404-Thread-2 (process_request_thread)] basehttp.log_message line 187: "POST /polls/login/ HTTP/1.1" 500 75391
+2022-09-10 01:39:03 WARNING [77932-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:42:58 WARNING [122108-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:43:09 WARNING [122108-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:43:11 WARNING [122108-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:43:38 WARNING [122108-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:44:01 WARNING [122108-Thread-5 (process_request_thread)] log.log_response line 241: Not Found: /
+2022-09-10 01:44:01 WARNING [122108-Thread-5 (process_request_thread)] basehttp.log_message line 187: "GET / HTTP/1.1" 404 2403
+2022-09-10 01:44:09 WARNING [122108-Thread-5 (process_request_thread)] log.log_response line 241: Not Found: /
+2022-09-10 01:44:09 WARNING [122108-Thread-5 (process_request_thread)] basehttp.log_message line 187: "GET / HTTP/1.1" 404 2403
+2022-09-10 01:44:44 WARNING [120224-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:44:51 WARNING [120224-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:44:53 WARNING [120224-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:45:03 WARNING [120224-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:45:25 WARNING [120224-Thread-5 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:50:46 WARNING [114036-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:50:54 WARNING [114036-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:51:03 WARNING [114036-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:51:05 WARNING [114036-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:51:25 WARNING [114036-Thread-5 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:53:22 WARNING [117184-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:53:24 WARNING [117184-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:53:26 WARNING [117184-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:53:45 WARNING [117184-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:54:17 WARNING [87948-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:54:27 WARNING [87948-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:54:52 WARNING [87948-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:31 WARNING [106588-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:31 WARNING [106588-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:32 WARNING [106588-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:35 WARNING [106588-Thread-4 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:55:56 WARNING [106588-Thread-5 (process_request_thread)] log.log_response line 241: Not Found: /
+2022-09-10 01:55:56 WARNING [106588-Thread-5 (process_request_thread)] basehttp.log_message line 187: "GET / HTTP/1.1" 404 2403
+2022-09-10 01:56:01 WARNING [106588-Thread-5 (process_request_thread)] log.log_response line 241: Not Found: /register/
+2022-09-10 01:56:01 WARNING [106588-Thread-5 (process_request_thread)] basehttp.log_message line 187: "GET /register/ HTTP/1.1" 404 2448
+2022-09-10 01:56:52 WARNING [111624-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 01:56:54 WARNING [111624-Thread-2 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/ HTTP/1.1" 404 1881
+2022-09-10 01:56:58 WARNING [111624-Thread-3 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
+2022-09-10 02:01:17 ERROR [95120-Thread-1 (process_request_thread)] log.log_response line 241: Internal Server Error: /polls/login/
+Traceback (most recent call last):
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\project\python_learn\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\project\Django_learn\hellodjango\polls\views.py", line 84, in login
+    print('***',request.REQUEST.get('next'))
+AttributeError: 'WSGIRequest' object has no attribute 'REQUEST'
+2022-09-10 02:01:17 ERROR [95120-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /polls/login/ HTTP/1.1" 500 70371
+2022-09-10 02:02:09 WARNING [119656-Thread-1 (process_request_thread)] basehttp.log_message line 187: "GET /static/images/hot-icon-small.png HTTP/1.1" 404 1935
